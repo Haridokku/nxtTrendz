@@ -1,0 +1,33 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text-container {
+  display: flex;
+  align-items: center;
+}
+.head {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.describe {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+.clothes {
+  width: 50%;
+  height: 60vh;
+  margin: 10px;
+}

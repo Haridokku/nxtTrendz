@@ -1,0 +1,64 @@
+.login-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.website-login {
+  width: 250px;
+  height: 250px;
+  align-self: center;
+}
+.form-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #ffffff;
+  padding-top: 25px;
+  padding-bottom: 55px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 350px;
+}
+.logo {
+  text-align: center;
+  width: 200px;
+  margin: 20px;
+}
+.label-text {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-bottom: 15px;
+}
+.input-element {
+  font-size: 14px;
+  height: 40px;
+  border: 1px solid #d7dfe9;
+  background-color: #d7dfe9;
+  color: #1e293b;
+  padding: 8px 16px 8px 16px;
+  margin-bottom: 15px;
+}
+.button {
+  background-color: blue;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  margin-top: 15px;
+  width: 100%;
+  font-weight: bold;
+}
+.description {
+  align-self: start;
+  color: #ff0b37;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  line-height: 16px;
+}

@@ -1,0 +1,22 @@
+.trend-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30vh;
+}
+.logo {
+  width: 150px;
+}
+.buttons-container {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  width: 300px;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
